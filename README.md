@@ -1,6 +1,7 @@
 
 # AI-Powered eCommerce App Development: Features, Use Cases, Costs & Benefits
-[AI-Powered eCommerce Platform Development](https://kuchoriya-software.s3.ap-south-1.amazonaws.com/Image/AI-Powered_eCommerce_App_Development__Features_Use_ba917dcf-0375-49e8-b931-d830589e02f4.webp)
+
+![AI-Powered eCommerce Platform Development](https://kuchoriya-software.s3.ap-south-1.amazonaws.com/Image/AI-Powered_eCommerce_App_Development__Features_Use_ba917dcf-0375-49e8-b931-d830589e02f4.webp)
 
 AI-powered eCommerce app development helps businesses create smarter shopping experiences through personalized recommendations, intelligent search, automated customer support, and demand forecasting.
 
